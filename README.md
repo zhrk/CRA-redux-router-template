@@ -1,1 +1,1 @@
-# CRA-redux-router-template
+# create-react-app + redux + react-router-dom
